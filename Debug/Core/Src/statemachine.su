@@ -1,0 +1,5 @@
+../Core/Src/statemachine.c:30:6:stateMachine_init	8	static
+../Core/Src/statemachine.c:45:6:state_LD1_function	8	static
+../Core/Src/statemachine.c:55:6:state_LD2_function	8	static
+../Core/Src/statemachine.c:66:6:state_LD3_function	8	static
+../Core/Src/statemachine.c:78:6:state_LD4_function	8	static
